@@ -95,3 +95,31 @@ func main() {
 ```
 [![Alternate text](path to the picture)](link)
 ```
+
+## Чекбоксы
+
+```- [ ] some text``` - пустой чекбокс
+
+```- [x] some text``` - заполненный чекбокс
+
+Для вложенных чекбоксов нужно использовать табуляцию
+
+- [x] task 1
+- [x] task 2
+- [ ] task 3
+
+## Таблицы
+
+```
+|Name   |Description   |Link  | 
+|-------|--------------|------|
+|       |              |      |
+|       |              |      |
+|       |              |      |
+```
+
+|Name   |Description   |Link  | 
+|-------|--------------|------|
+|Go     |Programming language|https://golang.org|
+|       |              |      |
+|       |              |      |
